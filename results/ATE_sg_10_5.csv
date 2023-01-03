@@ -1,0 +1,9 @@
+rx,sg_10_5,dtime_mean
+0.2 mg estrogen,false,41.44642857142857
+0.2 mg estrogen,true,29.306451612903224
+5.0 mg estrogen,false,35.768115942028984
+5.0 mg estrogen,true,32.17307692307692
+placebo,false,44.03225806451613
+placebo,true,25.31578947368421
+1.0 mg estrogen,false,42.42622950819672
+1.0 mg estrogen,true,35.017857142857146

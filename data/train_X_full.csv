@@ -1,0 +1,238 @@
+patno,stage,rx,dtime,status,age,wt,pf,hx,sbp,dbp,ekg,hg,sz,sg,ap,bm,sdate,died,sg_low
+1,3,0.2 mg estrogen,72,alive,75,76,normal activity,0,15,9,heart strain,13.79882813,2,8,0.299987793,0,2778,0,true
+4,3,0.2 mg estrogen,20,dead - cerebrovascular,75,94,in bed < 50% daytime,1,14,7,benign,17.59765625,4,8,0.899902344,0,2999,1,true
+9,3,1.0 mg estrogen,61,alive,60,110,normal activity,0,12,8,normal,14.59960938,4,10,0.699951172,0,3134,0,true
+10,3,1.0 mg estrogen,60,alive,78,107,normal activity,1,13,8,old MI,13.0,21,6,0.399963379,0,3140,0,true
+11,3,1.0 mg estrogen,60,alive,77,89,normal activity,0,15,8,normal,15.59960938,3,8,0.599975586,0,3141,0,true
+12,3,5.0 mg estrogen,59,alive,74,105,normal activity,1,18,14,normal,13.59960938,6,8,0.399963379,0,3176,0,true
+13,3,0.2 mg estrogen,59,alive,74,107,normal activity,0,14,9,old MI,14.3984375,6,9,0.299987793,0,3183,0,true
+14,3,placebo,49,dead - prostatic ca,55,112,normal activity,1,16,9,heart strain,13.8984375,4,9,1.0,0,3183,1,true
+16,3,5.0 mg estrogen,3,dead - heart or vascular,87,81,in bed < 50% daytime,1,17,12,rhythmic disturb & electrolyte ch,13.3984375,3,9,0.399963379,0,3196,1,true
+18,3,1.0 mg estrogen,29,dead - pulmonary embolus,79,104,normal activity,0,13,8,benign,15.0,5,8,0.5,0,3230,1,true
+19,3,5.0 mg estrogen,26,dead - heart or vascular,62,90,normal activity,1,13,8,benign,14.3984375,2,9,0.699951172,0,3386,1,true
+20,3,5.0 mg estrogen,52,alive,74,107,normal activity,0,13,8,heart strain,16.3984375,10,9,0.699951172,0,3400,0,true
+22,3,1.0 mg estrogen,51,alive,65,113,normal activity,0,16,10,normal,14.09960938,21,9,0.699951172,0,3428,0,true
+23,3,placebo,51,alive,61,97,normal activity,0,11,8,normal,13.5,8,8,0.599975586,0,3433,0,true
+25,4,1.0 mg estrogen,42,dead - cerebrovascular,73,103,normal activity,0,16,10,normal,14.59960938,6,11,3.899902344,0,2831,1,false
+30,4,0.2 mg estrogen,8,dead - prostatic ca,76,90,normal activity,0,15,9,heart strain,12.79882813,40,13,2.299804688,0,2895,1,false
+31,4,0.2 mg estrogen,13,dead - prostatic ca,74,77,in bed > 50% daytime,0,16,9,heart strain,10.5,17,13,316.0,1,2905,1,false
+33,4,1.0 mg estrogen,9,dead - prostatic ca,71,88,normal activity,1,16,9,heart strain,12.29882813,38,13,35.3984375,0,2932,1,false
+34,4,placebo,21,dead - prostatic ca,79,89,normal activity,0,16,9,heart strain,12.79882813,26,12,12.09960938,0,2940,1,false
+35,4,5.0 mg estrogen,66,dead - prostatic ca,75,101,normal activity,0,15,9,normal,14.59960938,8,14,3.799804688,0,2953,1,false
+37,4,placebo,27,dead - other specific non-ca,72,93,normal activity,0,16,10,heart strain,13.0,2,11,1.299804688,0,2933,1,false
+38,4,0.2 mg estrogen,2,dead - heart or vascular,69,84,normal activity,1,12,8,benign,10.3984375,15,13,28.8984375,1,2979,1,false
+39,4,0.2 mg estrogen,20,dead - prostatic ca,53,99,normal activity,0,12,9,benign,14.19921875,26,13,5.599609375,1,3050,1,false
+41,4,placebo,60,alive,72,95,normal activity,1,17,8,heart strain,13.59960938,12,12,2.299804688,0,3162,0,false
+46,4,5.0 mg estrogen,43,dead - prostatic ca,74,81,normal activity,0,17,10,heart strain,13.3984375,28,11,20.0,1,3395,1,false
+47,4,0.2 mg estrogen,21,dead - prostatic ca,60,96,normal activity,0,12,8,normal,14.29882813,27,13,7.0,0,3433,1,false
+49,3,5.0 mg estrogen,74,alive,49,99,normal activity,0,13,7,normal,14.79882813,14,8,0.5,0,2735,0,true
+51,3,placebo,14,dead - prostatic ca,73,101,normal activity,0,16,7,normal,12.3984375,18,11,0.599975586,0,2905,1,false
+52,3,5.0 mg estrogen,33,dead - heart or vascular,76,98,normal activity,1,17,10,old MI,17.09765625,13,8,0.5,0,2995,1,true
+53,3,0.2 mg estrogen,8,dead - cerebrovascular,72,84,normal activity,1,12,8,heart strain,14.79882813,15,8,0.599975586,0,3001,1,true
+54,3,1.0 mg estrogen,10,dead - heart or vascular,73,82,normal activity,1,16,8,heart strain,14.09960938,20,9,0.5,0,3022,1,true
+55,3,placebo,51,dead - prostatic ca,78,108,in bed > 50% daytime,1,18,8,old MI,14.79882813,24,9,0.299987793,0,3023,1,true
+58,3,0.2 mg estrogen,33,dead - prostatic ca,64,130,normal activity,0,13,9,normal,14.19921875,23,11,0.199981689,0,3219,1,false
+60,3,placebo,43,dead - other ca,60,99,normal activity,0,12,9,normal,13.59960938,7,9,0.599975586,0,3375,1,true
+62,4,placebo,5,dead - cerebrovascular,77,93,in bed < 50% daytime,0,21,9,old MI,12.8984375,24,13,11.69921875,0,2856,1,false
+63,4,0.2 mg estrogen,6,dead - prostatic ca,73,102,normal activity,1,14,9,heart strain,12.0,51,15,8.69921875,0,2856,1,false
+64,4,placebo,2,dead - prostatic ca,70,76,in bed > 50% daytime,0,12,8,normal,7.799804688,26,11,2.0,1,2863,1,false
+65,4,0.2 mg estrogen,5,dead - prostatic ca,53,106,normal activity,0,14,8,heart strain,14.29882813,10,11,0.699951172,0,2982,1,false
+66,4,5.0 mg estrogen,64,alive,55,116,normal activity,0,13,9,heart strain,14.79882813,26,15,4.599609375,1,3043,0,false
+68,4,1.0 mg estrogen,21,dead - prostatic ca,59,71,normal activity,0,8,4,heart strain,8.69921875,27,11,175.09375,1,3298,1,false
+70,3,1.0 mg estrogen,21,dead - cerebrovascular,68,97,in bed < 50% daytime,1,14,8,old MI,12.09960938,18,8,0.599975586,0,2660,1,true
+71,3,1.0 mg estrogen,12,dead - heart or vascular,77,103,normal activity,1,13,7,rhythmic disturb & electrolyte ch,14.3984375,5,9,0.699951172,0,2686,1,true
+72,3,1.0 mg estrogen,75,alive,74,110,normal activity,0,16,8,benign,13.59960938,7,8,0.5,0,2686,0,true
+78,3,placebo,59,dead - other specific non-ca,69,97,normal activity,1,13,7,normal,14.29882813,4,9,0.299987793,0,2763,1,true
+85,3,placebo,60,dead - respiratory disease,72,118,normal activity,1,17,11,normal,15.59960938,9,9,0.599975586,0,2856,1,true
+88,3,1.0 mg estrogen,9,dead - other ca,70,72,normal activity,1,16,9,heart block or conduction def,12.0,17,8,0.099990845,0,2903,1,true
+91,3,placebo,17,dead - respiratory disease,84,104,normal activity,1,15,10,benign,13.3984375,8,6,0.399963379,0,3049,1,true
+93,3,1.0 mg estrogen,1,dead - respiratory disease,81,97,normal activity,0,10,7,normal,13.3984375,11,9,0.699951172,0,3087,1,true
+94,3,5.0 mg estrogen,5,dead - heart or vascular,81,76,normal activity,1,13,7,heart strain,14.8984375,28,9,0.5,0,3094,1,true
+96,3,placebo,59,alive,77,109,normal activity,0,14,7,normal,12.0,7,10,0.299987793,0,3182,0,true
+97,3,0.2 mg estrogen,31,dead - heart or vascular,70,109,normal activity,1,18,8,heart strain,12.0,28,9,0.5,0,3197,1,true
+98,3,placebo,58,alive,76,108,normal activity,1,12,7,old MI,12.0,3,9,0.299987793,0,3204,0,true
+102,3,5.0 mg estrogen,55,alive,64,100,normal activity,1,16,10,normal,13.69921875,6,9,0.199981689,0,3295,0,true
+103,3,1.0 mg estrogen,55,alive,74,113,normal activity,0,12,7,normal,14.29882813,7,10,0.799926758,0,3317,0,true
+104,3,placebo,52,alive,76,88,normal activity,1,16,9,normal,12.29882813,3,8,0.599975586,0,3394,0,true
+106,3,1.0 mg estrogen,51,alive,65,87,normal activity,1,16,8,normal,14.5,2,9,0.799926758,0,3421,0,true
+109,4,placebo,74,alive,77,93,normal activity,0,10,6,benign,11.0,0,12,4.899414063,0,2714,0,false
+112,4,placebo,2,dead - prostatic ca,73,80,normal activity,1,13,8,heart strain,12.8984375,61,12,39.6953125,0,2867,1,false
+114,4,5.0 mg estrogen,27,dead - other specific non-ca,71,91,normal activity,0,13,6,heart strain,12.0,1,10,1.199951172,0,2966,1,true
+116,4,placebo,1,dead - heart or vascular,74,100,normal activity,1,13,8,old MI,14.3984375,1,11,1.099853516,0,3294,1,false
+117,4,5.0 mg estrogen,52,alive,70,110,normal activity,1,16,8,old MI,15.8984375,4,10,2.0,0,3381,0,true
+118,4,1.0 mg estrogen,51,alive,73,106,normal activity,1,11,8,benign,11.19921875,10,13,1.199951172,1,3414,0,false
+119,4,5.0 mg estrogen,6,dead - prostatic ca,74,98,normal activity,1,13,6,rhythmic disturb & electrolyte ch,14.0,41,12,78.390625,1,3427,1,false
+120,4,1.0 mg estrogen,1,dead - prostatic ca,77,91,normal activity,1,12,7,heart strain,14.29882813,6,11,1.699951172,1,3434,1,false
+124,3,0.2 mg estrogen,26,dead - prostatic ca,78,83,normal activity,0,13,7,normal,10.29882813,25,11,0.5,0,2852,1,false
+130,3,0.2 mg estrogen,67,alive,67,96,normal activity,0,13,7,old MI,15.69921875,7,9,0.5,0,2954,0,true
+133,3,5.0 mg estrogen,6,dead - other ca,78,91,normal activity,0,11,7,normal,11.0,4,9,0.299987793,0,3021,1,true
+135,3,placebo,6,dead - prostatic ca,71,92,normal activity,0,13,7,heart block or conduction def,14.0,9,9,0.799926758,0,3079,1,true
+138,3,placebo,29,dead - heart or vascular,57,97,normal activity,0,14,8,heart strain,14.69921875,20,9,0.699951172,0,3311,1,true
+142,3,5.0 mg estrogen,8,dead - pulmonary embolus,83,115,normal activity,0,17,9,heart strain,16.69921875,25,9,0.599975586,0,3428,1,true
+144,4,5.0 mg estrogen,21,dead - heart or vascular,73,103,normal activity,0,12,8,normal,12.79882813,21,11,2.799804688,0,2790,1,false
+146,4,1.0 mg estrogen,22,dead - respiratory disease,75,124,normal activity,0,18,11,heart strain,15.59960938,22,11,7.0,0,2889,1,false
+148,4,1.0 mg estrogen,68,alive,56,69,normal activity,0,13,8,normal,10.69921875,11,13,1.399902344,1,2902,0,false
+151,4,5.0 mg estrogen,1,dead - other specific non-ca,73,98,in bed < 50% daytime,1,15,8,rhythmic disturb & electrolyte ch,10.19921875,23,13,127.796875,0,2950,1,false
+153,4,placebo,14,dead - prostatic ca,50,109,normal activity,0,12,8,normal,9.298828125,17,11,225.1875,1,3069,1,false
+155,4,5.0 mg estrogen,5,dead - prostatic ca,67,111,normal activity,0,12,9,old MI,9.599609375,17,11,7.0,1,3149,1,false
+156,4,1.0 mg estrogen,60,alive,72,96,normal activity,0,15,9,normal,15.29882813,2,15,43.59375,1,3155,0,false
+157,4,placebo,40,dead - cerebrovascular,72,96,normal activity,0,14,10,benign,10.5,26,12,29.8984375,1,3156,1,false
+159,4,0.2 mg estrogen,51,alive,78,116,normal activity,0,15,10,heart strain,15.69921875,6,13,1.099853516,0,3427,0,false
+160,3,placebo,50,dead - unknown cause,72,91,normal activity,1,19,9,heart strain,12.0,16,8,0.599975586,0,2896,1,true
+161,3,0.2 mg estrogen,46,dead - unknown cause,76,118,normal activity,1,18,8,heart strain,14.5,4,8,0.699951172,0,2925,1,true
+162,3,0.2 mg estrogen,65,alive,77,111,normal activity,0,19,9,heart block or conduction def,12.5,20,9,0.799926758,0,3009,0,true
+164,3,0.2 mg estrogen,21,dead - other ca,74,96,normal activity,1,10,7,normal,10.19921875,18,9,0.899902344,0,3097,1,true
+170,4,1.0 mg estrogen,30,dead - heart or vascular,73,105,normal activity,1,14,6,old MI,13.79882813,9,15,5.099609375,0,2744,1,false
+171,4,5.0 mg estrogen,70,alive,69,108,normal activity,0,12,8,normal,12.19921875,23,11,2.0,0,2852,0,false
+172,4,1.0 mg estrogen,14,dead - other ca,73,94,normal activity,0,12,7,old MI,13.3984375,31,13,3.399902344,0,2863,1,false
+173,4,placebo,1,dead - other specific non-ca,73,93,normal activity,0,14,8,normal,7.799804688,23,15,1.199951172,0,3106,1,false
+175,4,1.0 mg estrogen,12,dead - heart or vascular,75,88,normal activity,1,14,6,normal,13.3984375,31,13,21.59765625,1,3118,1,false
+178,4,1.0 mg estrogen,12,dead - prostatic ca,76,87,in bed < 50% daytime,1,14,5,heart strain,11.69921875,28,14,42.796875,1,3225,1,false
+179,4,0.2 mg estrogen,53,alive,75,89,normal activity,1,14,8,normal,12.59960938,8,11,2.0,0,3355,0,false
+180,4,0.2 mg estrogen,11,dead - prostatic ca,59,116,normal activity,1,10,6,normal,12.79882813,6,11,2.399902344,0,3358,1,false
+181,3,5.0 mg estrogen,18,dead - heart or vascular,72,96,normal activity,0,11,8,normal,10.29882813,9,11,3.299804688,1,2734,1,false
+182,3,1.0 mg estrogen,13,dead - cerebrovascular,80,91,normal activity,0,15,8,rhythmic disturb & electrolyte ch,12.29882813,4,8,0.599975586,0,2805,1,true
+184,3,1.0 mg estrogen,8,dead - unknown cause,52,90,normal activity,1,13,8,heart strain,14.79882813,4,9,0.299987793,0,2841,1,true
+186,3,5.0 mg estrogen,67,alive,67,109,normal activity,1,14,8,normal,14.0,3,9,0.799926758,0,2925,0,true
+187,3,0.2 mg estrogen,67,alive,74,103,normal activity,0,16,6,heart strain,13.0,4,9,0.399963379,0,2937,0,true
+189,3,0.2 mg estrogen,64,alive,73,96,normal activity,0,15,10,rhythmic disturb & electrolyte ch,12.0,4,9,0.5,0,3022,0,true
+190,3,1.0 mg estrogen,26,dead - heart or vascular,75,113,in bed > 50% daytime,0,12,7,heart strain,13.5,1,13,0.699951172,0,3036,1,false
+191,4,0.2 mg estrogen,57,dead - prostatic ca,72,88,normal activity,0,14,7,heart strain,12.0,7,12,59.3984375,0,2796,1,false
+192,4,0.2 mg estrogen,32,dead - prostatic ca,55,96,normal activity,1,15,9,heart strain,10.29882813,12,11,0.199981689,0,2810,1,false
+196,4,1.0 mg estrogen,71,alive,56,94,normal activity,0,12,8,normal,14.3984375,1,10,1.099853516,0,2818,0,true
+198,4,5.0 mg estrogen,64,alive,54,89,normal activity,0,15,6,rhythmic disturb & electrolyte ch,14.79882813,8,13,1.199951172,1,3035,0,false
+201,3,placebo,2,dead - other specific non-ca,76,94,normal activity,0,16,10,normal,10.69921875,8,9,0.599975586,0,2708,1,true
+203,3,placebo,54,dead - cerebrovascular,70,97,normal activity,1,17,10,rhythmic disturb & electrolyte ch,13.79882813,10,9,0.599975586,0,2734,1,true
+205,3,placebo,68,alive,79,95,normal activity,0,14,8,heart strain,13.3984375,11,9,0.399963379,0,2894,0,true
+207,3,1.0 mg estrogen,66,alive,70,99,normal activity,0,12,8,normal,16.0,8,9,0.599975586,0,2978,0,true
+211,3,5.0 mg estrogen,62,alive,78,123,normal activity,0,13,8,benign,16.796875,0,10,0.899902344,0,3093,0,true
+213,3,5.0 mg estrogen,35,dead - other specific non-ca,66,87,normal activity,0,14,9,normal,14.29882813,3,8,0.399963379,0,3134,1,true
+214,3,1.0 mg estrogen,24,dead - pulmonary embolus,69,91,normal activity,1,16,10,heart block or conduction def,15.0,11,8,0.299987793,0,3218,1,true
+215,3,5.0 mg estrogen,57,alive,71,88,normal activity,0,16,8,heart strain,15.3984375,3,9,0.5,0,3248,0,true
+216,3,0.2 mg estrogen,1,dead - other ca,75,120,normal activity,0,15,7,heart strain,15.09960938,4,8,0.599975586,0,3287,1,true
+217,3,0.2 mg estrogen,4,dead - heart or vascular,74,99,normal activity,1,17,9,rhythmic disturb & electrolyte ch,15.69921875,7,7,0.599975586,0,3330,1,true
+219,4,0.2 mg estrogen,1,dead - prostatic ca,78,96,in bed > 50% daytime,0,16,9,heart strain,10.09960938,54,12,4.599609375,1,2700,1,false
+223,4,1.0 mg estrogen,32,dead - prostatic ca,79,79,in bed > 50% daytime,0,15,7,benign,13.29882813,16,13,28.8984375,1,2832,1,false
+226,4,placebo,66,alive,75,98,normal activity,1,14,8,normal,14.69921875,16,13,2.799804688,0,2973,0,false
+227,4,1.0 mg estrogen,65,alive,76,83,normal activity,0,12,6,rhythmic disturb & electrolyte ch,11.3984375,13,11,596.0,1,2995,0,false
+230,4,placebo,28,dead - heart or vascular,73,106,normal activity,1,16,9,normal,14.69921875,11,11,36.8984375,0,3017,1,false
+232,4,5.0 mg estrogen,46,dead - prostatic ca,72,100,normal activity,1,12,7,old MI,16.0,62,11,54.796875,1,3038,1,false
+233,4,5.0 mg estrogen,63,alive,74,101,normal activity,0,14,9,old MI,14.79882813,25,10,2.399902344,0,3066,0,true
+238,3,5.0 mg estrogen,8,dead - heart or vascular,78,99,normal activity,1,17,9,old MI,12.0,9,8,0.099990845,0,2720,1,true
+240,3,placebo,18,dead - heart or vascular,61,152,normal activity,1,15,10,heart strain,14.09960938,18,7,0.199981689,0,2728,1,true
+242,3,placebo,12,dead - heart or vascular,68,88,in bed < 50% daytime,1,24,12,heart strain,14.3984375,12,9,0.199981689,0,2824,1,true
+245,3,1.0 mg estrogen,28,dead - other ca,75,81,normal activity,0,16,10,normal,13.69921875,19,10,0.5,0,3090,1,true
+251,3,0.2 mg estrogen,24,dead - cerebrovascular,78,81,normal activity,1,14,7,old MI,11.0,4,9,0.399963379,0,3381,1,true
+253,4,0.2 mg estrogen,30,dead - heart or vascular,72,90,in bed < 50% daytime,1,22,12,heart strain,12.29882813,15,14,0.5,1,2782,1,false
+254,4,0.2 mg estrogen,58,dead - prostatic ca,52,106,normal activity,1,11,7,normal,15.0,13,14,5.299804688,0,2807,1,false
+257,4,placebo,33,dead - unspecified non-ca,71,86,normal activity,0,14,8,normal,10.19921875,8,11,0.399963379,1,2933,1,false
+263,4,5.0 mg estrogen,15,dead - prostatic ca,71,98,normal activity,0,15,10,heart strain,14.69921875,12,11,43.09375,1,3364,1,false
+265,4,5.0 mg estrogen,12,dead - prostatic ca,49,90,in bed < 50% daytime,0,14,8,heart strain,14.09960938,21,15,5.599609375,1,3367,1,false
+266,4,5.0 mg estrogen,53,alive,74,91,in bed > 50% daytime,1,13,7,rhythmic disturb & electrolyte ch,13.3984375,17,11,278.25,1,3373,0,false
+267,4,1.0 mg estrogen,51,alive,59,97,normal activity,0,13,6,normal,14.09960938,17,13,2.199707031,0,3412,0,false
+272,3,0.2 mg estrogen,2,dead - pulmonary embolus,72,82,normal activity,0,13,7,heart strain,9.3984375,33,11,0.599975586,0,2971,1,false
+273,3,0.2 mg estrogen,21,dead - prostatic ca,58,136,in bed < 50% daytime,1,14,8,benign,10.5,30,12,0.699951172,0,3020,1,false
+274,3,5.0 mg estrogen,35,dead - prostatic ca,73,101,normal activity,0,12,6,normal,12.79882813,46,11,0.599975586,0,3023,1,false
+278,3,0.2 mg estrogen,10,dead - other ca,72,83,normal activity,0,11,7,normal,13.79882813,15,9,0.399963379,0,3353,1,true
+287,4,1.0 mg estrogen,12,dead - prostatic ca,65,102,normal activity,0,15,9,normal,15.5,19,11,2.199707031,0,3063,1,false
+288,4,placebo,9,dead - heart or vascular,71,119,normal activity,0,19,10,heart strain,13.59960938,24,13,25.59765625,1,3063,1,false
+289,4,0.2 mg estrogen,21,dead - prostatic ca,76,94,normal activity,0,14,6,normal,10.59960938,24,11,10.8984375,1,3212,1,false
+297,3,5.0 mg estrogen,75,alive,61,94,normal activity,0,12,7,heart strain,12.0,4,9,0.799926758,0,2681,0,true
+299,3,5.0 mg estrogen,75,alive,57,84,normal activity,0,12,8,normal,13.8984375,6,8,0.5,0,2686,0,true
+301,3,placebo,31,dead - heart or vascular,78,96,in bed < 50% daytime,1,17,11,normal,14.8984375,2,10,0.199981689,0,2707,1,true
+303,3,0.2 mg estrogen,74,alive,72,102,normal activity,0,16,8,normal,14.0,23,7,0.299987793,0,2730,0,true
+305,3,5.0 mg estrogen,72,alive,70,87,normal activity,0,15,8,normal,14.59960938,5,10,0.299987793,0,2783,0,true
+309,3,0.2 mg estrogen,71,alive,65,117,normal activity,1,15,8,normal,16.5,9,9,0.799926758,0,2827,0,true
+310,3,placebo,60,dead - cerebrovascular,74,95,normal activity,1,18,9,normal,9.798828125,2,8,0.699951172,0,2839,1,true
+313,3,5.0 mg estrogen,67,dead - unspecified non-ca,73,105,normal activity,0,13,6,rhythmic disturb & electrolyte ch,14.8984375,39,9,0.5,0,2894,1,true
+314,3,placebo,62,dead - heart or vascular,71,107,normal activity,1,18,10,heart strain,14.5,9,8,0.299987793,0,2905,1,true
+315,3,5.0 mg estrogen,68,alive,73,118,normal activity,0,17,9,heart block or conduction def,13.3984375,4,9,0.699951172,0,2905,0,true
+318,3,0.2 mg estrogen,68,alive,70,98,normal activity,0,11,7,heart strain,14.19921875,19,10,0.5,0,2919,0,true
+319,3,1.0 mg estrogen,68,alive,77,98,normal activity,0,12,6,old MI,15.5,9,9,0.399963379,0,2919,0,true
+322,3,0.2 mg estrogen,3,dead - heart or vascular,74,105,normal activity,1,16,7,heart strain,14.09960938,10,11,0.299987793,0,2925,1,false
+327,3,1.0 mg estrogen,5,dead - other ca,80,95,normal activity,1,16,10,heart strain,14.5,7,9,0.899902344,0,2952,1,true
+328,3,1.0 mg estrogen,65,dead - other ca,51,96,normal activity,0,13,8,normal,11.79882813,2,6,0.599975586,0,2964,1,true
+330,3,0.2 mg estrogen,66,alive,72,95,normal activity,1,10,5,normal,14.0,8,8,0.699951172,0,2971,0,true
+331,3,5.0 mg estrogen,36,dead - heart or vascular,70,91,normal activity,1,16,9,heart block or conduction def,15.8984375,7,9,1.0,0,2974,1,true
+333,3,0.2 mg estrogen,40,dead - cerebrovascular,76,104,normal activity,1,15,7,heart strain,14.59960938,3,9,0.5,0,2978,1,true
+334,3,0.2 mg estrogen,13,dead - other specific non-ca,68,97,normal activity,0,17,9,heart strain,9.5,11,8,0.5,0,2978,1,true
+335,3,5.0 mg estrogen,40,dead - cerebrovascular,75,81,normal activity,1,12,8,old MI,15.5,14,8,0.399963379,0,3001,1,true
+337,3,0.2 mg estrogen,1,dead - other specific non-ca,75,91,normal activity,0,20,10,heart strain,11.79882813,3,11,0.199981689,0,3013,1,false
+340,3,1.0 mg estrogen,64,alive,74,118,normal activity,0,14,8,normal,14.19921875,4,6,0.599975586,0,3023,0,true
+341,3,1.0 mg estrogen,13,dead - respiratory disease,75,91,normal activity,0,13,7,rhythmic disturb & electrolyte ch,12.09960938,5,8,0.5,0,3023,1,true
+342,3,placebo,24,dead - other ca,75,79,normal activity,1,13,9,old MI,10.8984375,8,8,0.399963379,0,3030,1,true
+344,3,placebo,26,dead - heart or vascular,76,102,normal activity,1,15,9,heart strain,11.19921875,10,8,0.5,0,3051,1,true
+346,3,0.2 mg estrogen,63,alive,73,129,normal activity,1,21,11,heart strain,16.69921875,10,8,0.699951172,0,3055,0,true
+348,3,placebo,61,alive,75,93,normal activity,0,13,8,normal,13.69921875,10,12,0.099990845,0,3111,0,false
+351,3,5.0 mg estrogen,57,dead - heart or vascular,72,109,normal activity,0,16,10,normal,17.5,8,9,0.699951172,0,3134,1,true
+353,3,placebo,26,dead - prostatic ca,72,111,normal activity,0,14,8,normal,15.29882813,37,11,0.5,0,3140,1,false
+356,3,placebo,42,dead - prostatic ca,57,89,normal activity,0,12,6,normal,13.8984375,24,12,0.5,0,3190,1,false
+357,3,1.0 mg estrogen,27,dead - cerebrovascular,80,90,normal activity,1,14,8,heart strain,14.29882813,9,8,0.599975586,0,3195,1,true
+359,3,1.0 mg estrogen,57,alive,72,101,normal activity,0,13,8,normal,14.59960938,8,10,0.5,0,3253,0,true
+360,3,1.0 mg estrogen,57,alive,72,116,normal activity,0,14,8,heart strain,15.19921875,11,9,0.799926758,0,3253,0,true
+363,3,1.0 mg estrogen,54,alive,73,100,normal activity,0,18,10,old MI,11.69921875,8,9,0.699951172,0,3346,0,true
+364,3,0.2 mg estrogen,53,dead - prostatic ca,74,98,normal activity,1,16,8,old MI,13.79882813,11,8,1.0,0,3358,1,true
+365,3,0.2 mg estrogen,23,dead - heart or vascular,74,82,normal activity,1,17,4,old MI,10.8984375,8,8,0.399963379,0,3359,1,true
+368,3,placebo,27,dead - other specific non-ca,78,111,normal activity,1,15,7,heart strain,12.29882813,7,9,0.5,0,3380,1,true
+371,3,5.0 mg estrogen,52,alive,76,90,normal activity,0,15,8,heart block or conduction def,13.29882813,52,13,0.399963379,0,3407,0,false
+374,3,placebo,18,dead - prostatic ca,71,110,normal activity,1,14,8,heart strain,13.0,7,11,0.299987793,0,3427,1,false
+375,4,placebo,2,dead - other specific non-ca,61,95,normal activity,0,12,8,heart strain,11.5,37,12,25.59765625,1,2652,1,false
+376,4,5.0 mg estrogen,2,dead - heart or vascular,77,96,in bed < 50% daytime,1,14,7,heart strain,11.8984375,36,10,0.899902344,1,2670,1,true
+377,4,1.0 mg estrogen,35,dead - cerebrovascular,76,82,normal activity,0,10,6,heart strain,10.29882813,10,13,9.298828125,1,2686,1,false
+378,4,1.0 mg estrogen,75,alive,71,106,normal activity,0,15,8,normal,14.09960938,26,13,10.0,0,2695,0,false
+379,4,placebo,75,alive,77,87,normal activity,0,11,6,benign,12.5,5,11,2.199707031,0,2707,0,false
+380,4,placebo,9,dead - pulmonary embolus,78,89,normal activity,1,18,8,rhythmic disturb & electrolyte ch,14.29882813,39,13,25.296875,1,2729,1,false
+381,4,1.0 mg estrogen,39,dead - prostatic ca,58,92,normal activity,0,12,8,heart strain,13.69921875,5,11,10.79882813,1,2772,1,false
+390,4,1.0 mg estrogen,16,dead - prostatic ca,61,83,normal activity,1,12,6,rhythmic disturb & electrolyte ch,13.59960938,4,15,38.5,1,3010,1,false
+394,4,5.0 mg estrogen,38,dead - prostatic ca,72,90,normal activity,0,11,8,heart strain,14.79882813,11,15,1.5,0,3115,1,false
+398,4,placebo,38,dead - prostatic ca,75,113,normal activity,1,10,6,rhythmic disturb & electrolyte ch,13.29882813,9,13,0.399963379,1,3150,1,false
+399,4,0.2 mg estrogen,20,dead - prostatic ca,72,79,normal activity,0,14,7,normal,12.19921875,24,11,7.19921875,1,3150,1,false
+402,4,1.0 mg estrogen,31,dead - prostatic ca,61,91,normal activity,1,14,8,benign,10.69921875,25,13,152.1875,1,3195,1,false
+403,4,placebo,9,dead - prostatic ca,77,116,normal activity,1,14,8,rhythmic disturb & electrolyte ch,15.19921875,7,13,47.0,0,3196,1,false
+405,4,1.0 mg estrogen,11,dead - unspecified non-ca,72,86,in bed < 50% daytime,0,12,7,rhythmic disturb & electrolyte ch,14.0,50,15,1.099853516,0,3238,1,false
+406,4,5.0 mg estrogen,56,dead - prostatic ca,64,104,normal activity,0,17,7,normal,12.0,43,13,2.399902344,1,3253,1,false
+409,4,5.0 mg estrogen,15,dead - other ca,73,83,normal activity,1,12,7,heart strain,11.19921875,0,11,4.19921875,0,3272,1,false
+410,4,5.0 mg estrogen,51,alive,71,104,normal activity,0,15,7,heart block or conduction def,16.0,26,11,0.799926758,1,3429,0,false
+415,3,5.0 mg estrogen,23,dead - heart or vascular,72,93,normal activity,1,16,8,heart strain,16.59765625,4,9,0.199981689,0,3000,1,true
+417,3,0.2 mg estrogen,30,dead - prostatic ca,62,104,normal activity,1,12,8,heart strain,16.0,32,11,0.399963379,0,3078,1,false
+419,3,placebo,53,dead - heart or vascular,62,119,normal activity,0,19,11,heart strain,16.3984375,14,9,0.5,0,3113,1,true
+420,3,placebo,12,dead - heart or vascular,72,128,normal activity,0,15,8,heart strain,16.3984375,15,9,0.599975586,0,3176,1,true
+422,3,1.0 mg estrogen,54,alive,51,112,normal activity,0,13,9,normal,15.79882813,7,8,0.799926758,0,3322,0,true
+423,3,placebo,36,dead - prostatic ca,72,104,normal activity,0,18,10,normal,16.3984375,4,9,0.599975586,0,3337,1,true
+424,3,0.2 mg estrogen,20,dead - respiratory disease,81,104,normal activity,0,15,8,normal,16.8984375,16,13,0.799926758,0,3364,1,false
+425,4,5.0 mg estrogen,74,alive,71,81,normal activity,0,11,7,old MI,13.09960938,29,11,11.79882813,0,2714,0,false
+429,4,0.2 mg estrogen,65,alive,77,107,normal activity,0,14,9,heart strain,14.69921875,1,13,1.599853516,0,2987,0,false
+431,4,1.0 mg estrogen,10,dead - prostatic ca,76,96,normal activity,0,12,7,old MI,13.79882813,34,11,36.0,1,3119,1,false
+432,4,1.0 mg estrogen,58,alive,68,79,normal activity,0,18,9,rhythmic disturb & electrolyte ch,13.3984375,9,11,1.199951172,0,3205,0,false
+433,4,placebo,37,dead - prostatic ca,73,90,normal activity,0,14,9,benign,9.3984375,21,13,5.099609375,0,3223,1,false
+437,3,5.0 mg estrogen,1,dead - heart or vascular,69,113,normal activity,1,13,8,normal,11.29882813,1,9,0.099990845,0,2813,1,true
+439,3,1.0 mg estrogen,70,alive,71,105,normal activity,0,12,8,normal,13.59960938,2,10,0.199981689,0,2859,0,true
+440,3,0.2 mg estrogen,28,dead - heart or vascular,75,97,normal activity,1,14,8,old MI,10.79882813,2,9,0.199981689,0,2875,1,true
+444,3,placebo,23,dead - respiratory disease,68,93,normal activity,0,13,7,normal,12.5,2,8,0.899902344,0,3076,1,true
+446,3,placebo,62,alive,63,95,normal activity,0,12,9,normal,13.19921875,3,8,0.299987793,0,3076,0,true
+448,3,placebo,62,alive,72,103,normal activity,0,16,7,heart strain,14.29882813,0,5,0.399963379,0,3100,0,true
+449,3,5.0 mg estrogen,2,dead - heart or vascular,78,103,normal activity,0,11,7,old MI,11.19921875,0,6,0.599975586,0,3140,1,true
+452,3,0.2 mg estrogen,12,dead - prostatic ca,76,103,normal activity,1,13,7,old MI,12.5,4,8,0.5,0,3213,1,true
+454,3,5.0 mg estrogen,1,dead - heart or vascular,88,99,normal activity,1,13,6,old MI,14.09960938,17,9,0.699951172,0,3275,1,true
+455,3,5.0 mg estrogen,7,dead - other specific non-ca,78,88,normal activity,1,11,6,old MI,10.8984375,5,9,0.299987793,0,3413,1,true
+457,4,placebo,70,alive,77,106,normal activity,1,15,8,rhythmic disturb & electrolyte ch,16.0,1,9,2.199707031,0,2841,0,true
+458,4,5.0 mg estrogen,65,alive,71,101,normal activity,0,12,7,normal,12.69921875,2,10,1.5,0,3006,0,true
+463,4,0.2 mg estrogen,22,dead - prostatic ca,64,110,normal activity,0,16,10,rhythmic disturb & electrolyte ch,9.298828125,6,11,6.299804688,1,3332,1,false
+465,4,placebo,18,dead - prostatic ca,60,134,in bed > 50% daytime,1,16,8,old MI,14.09960938,9,13,1.199951172,0,3367,1,false
+466,3,0.2 mg estrogen,64,dead - unknown cause,70,107,normal activity,0,14,9,heart strain,14.09960938,8,9,0.199981689,0,2806,1,true
+467,3,5.0 mg estrogen,13,dead - heart or vascular,73,111,normal activity,1,15,8,heart strain,17.0,4,9,0.699951172,0,2856,1,true
+469,3,5.0 mg estrogen,1,dead - pulmonary embolus,79,97,in bed < 50% daytime,1,16,8,heart strain,13.59960938,3,9,0.599975586,0,2943,1,true
+472,3,0.2 mg estrogen,33,dead - heart or vascular,72,106,normal activity,1,13,8,old MI,16.5,17,11,0.599975586,0,3267,1,false
+477,4,0.2 mg estrogen,30,dead - prostatic ca,59,87,normal activity,1,15,9,normal,15.09960938,32,13,3.0,0,2713,1,false
+478,4,5.0 mg estrogen,53,dead - cerebrovascular,73,91,normal activity,1,16,9,rhythmic disturb & electrolyte ch,14.59960938,4,10,3.199707031,0,2761,1,true
+480,4,placebo,7,dead - prostatic ca,77,93,in bed > 50% daytime,1,14,9,old MI,11.79882813,43,11,43.0,1,2806,1,false
+483,4,placebo,9,dead - heart or vascular,72,83,normal activity,1,14,8,rhythmic disturb & electrolyte ch,12.8984375,18,13,1.399902344,1,2943,1,false
+486,4,1.0 mg estrogen,59,alive,73,71,normal activity,0,16,8,normal,13.3984375,3,11,0.699951172,1,3192,0,false
+487,4,5.0 mg estrogen,7,dead - heart or vascular,72,110,normal activity,0,14,6,normal,13.69921875,4,11,2.099609375,0,3220,1,false
+489,4,5.0 mg estrogen,12,dead - prostatic ca,80,105,in bed > 50% daytime,1,14,7,old MI,8.5,6,5,160.0,1,3435,1,true
+491,4,1.0 mg estrogen,50,alive,75,116,normal activity,0,14,8,normal,16.0,1,11,4.5,0,3465,0,false
+493,3,5.0 mg estrogen,52,alive,73,114,normal activity,1,14,8,heart strain,13.59960938,8,8,0.5,0,3387,0,true
+494,3,1.0 mg estrogen,19,dead - other ca,76,99,normal activity,1,15,9,heart block or conduction def,16.0,7,9,0.199981689,0,3407,1,true
+498,4,0.2 mg estrogen,14,dead - prostatic ca,64,100,in bed < 50% daytime,0,14,7,normal,14.0,23,11,0.599975586,0,3395,1,false
+499,4,0.2 mg estrogen,27,dead - prostatic ca,75,102,normal activity,0,16,8,normal,14.19921875,5,11,29.59765625,0,3430,1,false
+503,3,0.2 mg estrogen,41,dead - unspecified non-ca,78,127,normal activity,1,16,10,heart strain,15.79882813,5,9,0.5,0,3349,1,true
